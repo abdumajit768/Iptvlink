@@ -1,84 +1,211 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_181059.png",Sport tv 1 Full hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_181059.png",Sport tv 1 pt Full hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV1/track-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_181129.png",Sport tv 1 hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_181129.png",Sport tv 1 pt hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV1/track-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_181029.png",Sport tv 1 480p
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_181029.png",Sport tv 1 pt 480p
 http://h13v6kkes7i.a.trbcdn.net/SportTV1/track-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_180603.png",Sport tv 2 Full hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_180603.png",Sport tv 2 pt Full hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV2/track-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_180638.png",Sport tv 2 hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_180638.png",Sport tv 2 pt hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV2/track-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_180707.png",Sport tv 2 480p
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_180707.png",Sport tv 2 pt 480p
 http://h13v6kkes7i.a.trbcdn.net/SportTV2/track-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_190952.png",Sport tv 3 Full hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_190952.png",Sport tv 3 pt Full hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV3/track-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_190832.png",Sport tv 3 hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_190832.png",Sport tv 3 pt hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV3/track-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_190910.png",Sport tv 3 480p
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_190910.png",Sport tv 3 pt 480p
 http://h13v6kkes7i.a.trbcdn.net/SportTV3/track-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/images.png",Sport tv 4 Full hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/images.png",Sport tv 4 pt Full hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV4/track-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/images.png",Sport tv 4 hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/images.png",Sport tv 4 pt hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV4/track-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/images.png",Sport tv 4 480p
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/images.png",Sport tv 4 pt 480p
 http://h13v6kkes7i.a.trbcdn.net/SportTV4/track-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213509.png",Sport tv 5 Full hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213509.png",Sport tv 5 pt Full hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV5/track-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213509.png",Sport tv 5 hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213509.png",Sport tv 5 pt hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV5/track-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213509.png",Sport tv 5 480p
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213509.png",Sport tv 5 pt 480p
 http://h13v6kkes7i.a.trbcdn.net/SportTV5/track-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213746.png",Sport tv 6 Full hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213746.png",Sport tv 6 pt Full hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV6/track-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213746.png",Sport tv 6 hd
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213746.png",Sport tv 6 pt hd
 http://h13v6kkes7i.a.trbcdn.net/SportTV6/track-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213746.png",Sport tv 6 480p
+#EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213746.png",Sport tv 6 pt 480p
 http://h13v6kkes7i.a.trbcdn.net/SportTV6/track-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 Full hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",
+ pt Full hd
 https://ggl2605xwhr.a.trbcdn.net/dazn1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 pt pt hd
 https://ggl2605xwhr.a.trbcdn.net/dazn2/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 480p
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 pt 480p
 https://ggl2605xwhr.a.trbcdn.net/dazn2/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215047.png",dazn 2 Full hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215047.png",dazn 2 pt Full hd
 https://ggl2605xwhr.a.trbcdn.net/dazn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215047.png",dazn 2 hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215047.png",dazn 2 pt hd
 https://ggl2605xwhr.a.trbcdn.net/dazn2/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215047.png",dazn 2 480p
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215047.png",dazn 2 pt 480p
 https://ggl2605xwhr.a.trbcdn.net/dazn2/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://icdb.tv/images/3686667870c66a6ba48a1ea576620c3b.jpg",dazn 3 Full hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://icdb.tv/images/3686667870c66a6ba48a1ea576620c3b.jpg",dazn 3 pt Full hd
 https://ggl2605xwhr.a.trbcdn.net/dazn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://icdb.tv/images/3686667870c66a6ba48a1ea576620c3b.jpg",dazn 3 hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://icdb.tv/images/3686667870c66a6ba48a1ea576620c3b.jpg",dazn 3 pt hd
 https://ggl2605xwhr.a.trbcdn.net/dazn3/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://icdb.tv/images/3686667870c66a6ba48a1ea576620c3b.jpg",dazn 3 480p
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://icdb.tv/images/3686667870c66a6ba48a1ea576620c3b.jpg",dazn 3 pt 480p
 https://ggl2605xwhr.a.trbcdn.net/dazn3/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_012502.jpg",dazn 4 Full hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_012502.jpg",dazn 4 pt Full hd
 https://ggl2605xwhr.a.trbcdn.net/dazn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_012502.jpg",dazn 4 hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_012502.jpg",dazn 4 pt hd
 https://ggl2605xwhr.a.trbcdn.net/dazn4/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_012502.jpg",dazn 4 480p
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_012502.jpg",dazn 4 pt 480p
 https://ggl2605xwhr.a.trbcdn.net/dazn4/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011701.jpg",dazn 5 Full hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011701.jpg",dazn 5 pt Full hd
 https://ggl2605xwhr.a.trbcdn.net/dazn5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011701.jpg",dazn 5 hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011701.jpg",dazn 5 pt hd
 https://ggl2605xwhr.a.trbcdn.net/dazn5/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011701.jpg",dazn 5 480p
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011701.jpg",dazn 5 pt 480p
 https://ggl2605xwhr.a.trbcdn.net/dazn5/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011725.jpg",dazn 6 Full hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011725.jpg",dazn 6 pt Full hd
 https://ggl2605xwhr.a.trbcdn.net/dazn6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011725.jpg",dazn 6 hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011725.jpg",dazn 6 pt hd
 https://ggl2605xwhr.a.trbcdn.net/dazn6/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011725.jpg",dazn 6 480p
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241021_011725.jpg",dazn 6 pt 480p
 https://ggl2605xwhr.a.trbcdn.net/dazn6/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png",Arena sport 1 hr Full hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png",Arena sport 1 hr hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv11/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png",Arena sport 1 hr 480p
+http://rmk9kdk71lz.a.trbcdn.net/reserv11/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png",Arena sport 2 hr Full hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png",Arena sport 2 hr hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv12/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png",Arena sport 2 hr 480p
+http://rmk9kdk71lz.a.trbcdn.net/reserv12/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png",Arena sport 3 hr Full hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png",Arena sport 3 hr hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv13/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png",Arena sport 3 hr 480p
+http://rmk9kdk71lz.a.trbcdn.net/reserv13/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png",Arena sport 4 hr Full hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png",Arena sport 4 hr hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv14/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png",Arena sport 4 hr 480p
+http://rmk9kdk71lz.a.trbcdn.net/reserv14/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png",Arena sport 5 hr Full hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png",Arena sport 5 hr hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv12/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png",Arena sport 5 hr 480p
+http://rmk9kdk71lz.a.trbcdn.net/reserv15/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png",Arena sport 6 hr Full hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv16/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png",Arena sport 6 hr hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv16/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png",Arena sport 6 hr 480p
+http://rmk9kdk71lz.a.trbcdn.net/reserv16/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png",Arena sport 7 hr Full hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png",Arena sport 7 hr hd
+http://rmk9kdk71lz.a.trbcdn.net/reserv17/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Arena sport xorvat" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_7_HR_logo.png",Arena sport 7 hr 480p
+http://rmk9kdk71lz.a.trbcdn.net/reserv17/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://iptvx.one/picons/setanta1-kz.png",Setanta 1 Full hd
+http://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://iptvx.one/picons/setanta1-kz.png",Setanta 1 hd
+http://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://iptvx.one/picons/setanta1-kz.png",Setanta 1 480p
+http://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png",Setanta 2 Full hd
+http://25axin5tbn8.a.trbcdn.net/Setanta2_La_Liga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png",Setanta 2 hd
+http://25axin5tbn8.a.trbcdn.net/Setanta2_La_Liga/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png",Setanta 2 480p
+http://25axin5tbn8.a.trbcdn.net/Setanta2_La_Liga/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png",Setanta uk plus Full hd
+https://yl99roaf2y3.a.trbcdn.net/SetantaUAplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png",Setanta uk plus hd
+https://yl99roaf2y3.a.trbcdn.net/SetantaUAplus/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png",Setanta uk plus 480p
+https://yl99roaf2y3.a.trbcdn.net/SetantaUAplus/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://s7.vcdn.biz/static/f/7352002051/image.jpg",Setanta kz Full hd
+http://mb2hykkd75c.a.trbcdn.net/SetantaKZ_La_Liga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://s7.vcdn.biz/static/f/7352002051/image.jpg",Setanta kz hd
+http://mb2hykkd75c.a.trbcdn.net/SetantaKZ_La_Liga/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Setanta" tvg-logo="https://s7.vcdn.biz/static/f/7352002051/image.jpg",Setanta kz 480p
+http://mb2hykkd75c.a.trbcdn.net/SetantaKZ_La_Liga/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSu4zGfgvHG3t-e8bzK8sHXvn20E5Hgi0ww&usqp=CAU",Match tv ru Full hd
+https://xcilezl8o7o.a.trbcdn.net/mtv_laliga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSu4zGfgvHG3t-e8bzK8sHXvn20E5Hgi0ww&usqp=CAU",Match tv ru hd
+https://xcilezl8o7o.a.trbcdn.net/mtv_laliga/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSu4zGfgvHG3t-e8bzK8sHXvn20E5Hgi0ww&usqp=CAU",Match tv ru 480p
+https://xcilezl8o7o.a.trbcdn.net/mtv_laliga/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fukr%2Fmatch+premier.gif",Match premer ru Full hd
+http://m2tsxp2xerl.a.trbcdn.net/MATCHPRFN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fukr%2Fmatch+premier.gif",Match premer ru hd
+http://m2tsxp2xerl.a.trbcdn.net/MATCHPRFN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fukr%2Fmatch+premier.gif",Match premer ru 480p
+http://m2tsxp2xerl.a.trbcdn.net/MATCHPRFN/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://fc-ural.ru/uploads/main/00p/38610a0754c238617d8828c9c2b9f6dccef9e23f9b048b21f811566464121168/unnamed.jpg",Match futbol 1 Full hd
+http://zyc31x2inqj.a.trbcdn.net/m1_laliga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://fc-ural.ru/uploads/main/00p/38610a0754c238617d8828c9c2b9f6dccef9e23f9b048b21f811566464121168/unnamed.jpg",Match futbol 1 hd
+http://zyc31x2inqj.a.trbcdn.net/m1_laliga/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://fc-ural.ru/uploads/main/00p/38610a0754c238617d8828c9c2b9f6dccef9e23f9b048b21f811566464121168/unnamed.jpg",Match futbol 1 480p
+http://zyc31x2inqj.a.trbcdn.net/m1_laliga/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5oOHyVJGTb3CKoZUpdTdF9JLR5smioR7jLA&usqp=CAU",Match futbol 2 Full hd
+http://zyc31x2inqj.a.trbcdn.net/m2_laliga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5oOHyVJGTb3CKoZUpdTdF9JLR5smioR7jLA&usqp=CAU",Match futbol 2 hd
+http://zyc31x2inqj.a.trbcdn.net/m2_laliga/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5oOHyVJGTb3CKoZUpdTdF9JLR5smioR7jLA&usqp=CAU",Match futbol 2 480p
+http://zyc31x2inqj.a.trbcdn.net/m2_laliga/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonyvlgHmJpVuXuyDq9YbEZzADD-e5EqfBBw&s",Match futbol 3 Full hd
+http://zyc31x2inqj.a.trbcdn.net/m3_laliga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonyvlgHmJpVuXuyDq9YbEZzADD-e5EqfBBw&s",Match futbol 3 hd
+http://zyc31x2inqj.a.trbcdn.net/m3_laliga/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Match tv rus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonyvlgHmJpVuXuyDq9YbEZzADD-e5EqfBBw&s",Match futbol 3 480p
+http://zyc31x2inqj.a.trbcdn.net/m3_laliga/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Khl ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIGwv5EZguTTpR-IPGNW4NJgd2X_a-tlBlw&usqp=CAU",KHL ru Full hd
+http://08kqetji615.a.trbcdn.net/KHL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Khl ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIGwv5EZguTTpR-IPGNW4NJgd2X_a-tlBlw&usqp=CAU",KHL ru hd
+http://08kqetji615.a.trbcdn.net/KHL/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Khl ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIGwv5EZguTTpR-IPGNW4NJgd2X_a-tlBlw&usqp=CAU",KHL ru 480p
+http://08kqetji615.a.trbcdn.net/KHL/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Khl ru" tvg-logo="https://www.cableman.ru/sites/default/files/khl_prime_1.jpg",KHL prime ru Full hd
+http://ofxqkbarg2t.a.trbcdn.net/KHLPrime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Khl ru" tvg-logo="https://www.cableman.ru/sites/default/files/khl_prime_1.jpg",KHL prime ru hd
+http://ofxqkbarg2t.a.trbcdn.net/KHLPrime/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Khl ru" tvg-logo="https://www.cableman.ru/sites/default/files/khl_prime_1.jpg",KHL prime ru 480p
+http://ofxqkbarg2t.a.trbcdn.net/KHLPrime/tracks-v3a1/mono.m3u8
