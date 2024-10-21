@@ -41,8 +41,7 @@ http://h13v6kkes7i.a.trbcdn.net/SportTV6/track-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Sport tv portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_213746.png",Sport tv 6 pt 480p
 http://h13v6kkes7i.a.trbcdn.net/SportTV6/track-v3a1/mono.m3u8
 
-#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",
-dazn pt Full hd
+#EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 pt Full hd
 https://ggl2605xwhr.a.trbcdn.net/dazn1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="dazn portugal" tvg-logo="https://raw.githubusercontent.com/abdumajit768/Logo/refs/heads/main/IMG_20241020_215021.png",dazn 1 pt hd
 https://ggl2605xwhr.a.trbcdn.net/dazn1/tracks-v2a1/mono.m3u8
