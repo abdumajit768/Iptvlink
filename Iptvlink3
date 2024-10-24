@@ -57,10 +57,10 @@ http://rmk9kdk71lz.a.trbcdn.net/reserv16/index.m3u8
 http://rmk9kdk71lz.a.trbcdn.net/reserv17/index.m3u8
 
 #EXTINF:-1 group-title="Setanta" tvg-logo="https://iptvx.one/picons/setanta1-kz.png",Setanta 1 
-http://25axin5tbn8.a.trbcdn.net/Setanta1_La_Liga/index.m3u8
+https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Setanta" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png",Setanta 2 
-http://25axin5tbn8.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Setanta" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png",Setanta uk plus 
 https://yl99roaf2y3.a.trbcdn.net/SetantaUAplus/index.m3u8
@@ -89,3 +89,30 @@ http://08kqetji615.a.trbcdn.net/KHL/index.m3u8
 
 #EXTINF:-1 group-title="Khl ru" tvg-logo="https://www.cableman.ru/sites/default/files/khl_prime_1.jpg",KHL prime ru 
 http://ofxqkbarg2t.a.trbcdn.net/KHLPrime/index.m3u8
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUbBV7L1riVpsON24ScVifGfz916_LyZX-Q&s",Astro Grandstant 
+https://da.gd/XvmGJ
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUbBV7L1riVpsON24ScVifGfz916_LyZX-Q&s",Astro Football
+https://da.gd/24vq8
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUbBV7L1riVpsON24ScVifGfz916_LyZX-Q&s",Astro Premeir league
+https://da.gd/JGWrk
+
+#EXTINF:-1 group-title="Astro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUbBV7L1riVpsON24ScVifGfz916_LyZX-Q&s",Astro Premeir league 2
+https://da.gd/MVfB
+
+#EXTINF:-1 group-title="Other sports channels" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Myu tv
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 group-title="Other sports channels" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Redbul
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 group-title="Other sports channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKl7ZkhTyQ2ReoXWLmqvqwFIPJb8sIHd8x2w&usqp=CAU",Tenis tv
+http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Other sports channels" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Italian si
+https://da.gd/4NnI1W
+
+#EXTINF:-1 group-title="Other sports channels" tvg-logo="https://logowik.com/content/uploads/images/sports8897.jpg",Viju+
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
